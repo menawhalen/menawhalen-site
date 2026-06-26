@@ -1,0 +1,3 @@
+Put your real CV PDF in this folder and name it `current_CV.pdf`
+(matching the link in cv.md). You can grab the old one straight from
+your previous repo: distill_website/CV/ on GitHub.

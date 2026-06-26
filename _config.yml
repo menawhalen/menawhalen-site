@@ -1,0 +1,28 @@
+title: "Mena Whalen"
+description: "Personal academic website"
+url: "https://menawhalen.com"
+baseurl: ""
+
+# Navigation links shown in the header
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /cv/current_CV.pdf
+  - title: "Courses"
+    url: /courses/
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude files from being published
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
