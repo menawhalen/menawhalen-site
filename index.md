@@ -9,8 +9,7 @@ title: Home
 </div>
 
 <p>
-  Welcome! I'm a statistician/educator working on [your area of focus —
-  e.g. statistical methods, data science education, applied statistics].
+  Welcome! I'm a statistician and educator working at Loyola University Chicago.
   This site is where you can find my research, courses, and CV.
 </p>
 
